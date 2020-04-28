@@ -32,7 +32,7 @@
                          terms:creator "Sahar Vahdati" ;
                          rdfs:seeAlso "See also documentation at http://kddste.sda.tech/SEOontology/Documentation/SEO.html"@en ;
                          vann:preferredNamespaceUri "http://purl.org/seo/"^^terms:URI ;
-                         terms:description "SEO is a reference ontology for modelling data about scientific events such as conferences, symposioums and workshops."@en ;
+                         terms:description "SEO is a reference ontology for modelling data about scientific events such as conferences, symposiums and workshops."@en ;
                          terms:created "2018-02-01"@en ;
                          dc:creator "Christoph Lange" ;
                          terms:license <http://creativecommons.org/licenses/by/3.0/> .
